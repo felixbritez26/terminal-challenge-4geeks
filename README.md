@@ -6,7 +6,7 @@ This command line challenge is designed to familiarize you with the terminal. Th
 
 > ❗ We recommend that you read the lesson [The Command Line](https://4geeks.com/es/lesson/the-command-line-the-terminal-es) on the 4Geeks.com platform before doing this exercise.
 
-💻 The challenge is designed for computers using Linux bash. Use Github Codespaces or Gitpod if you need a cloud terminal.
+💻 The challenge is designed for computers using Linux bash. Use Github Codespaces or Gitpod if you need a cloud terminal.g
 
 <onlyfor saas="false" withBanner="false">
   
